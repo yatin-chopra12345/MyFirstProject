@@ -1,0 +1,7 @@
+Tiger
+Lion
+Leopard
+Elephant
+Eagle
+Snake
+Rhino
